@@ -1,1 +1,32 @@
+# Network
 
+## Current Network
+
+- Router: Google WiFi
+- Main server: HP Compaq Elite 8300
+- Raspberry Pi 3: 2
+- Network switch: Not purchased yet
+- Router : Not purchased yet
+
+## Planned Network
+
+Internet
+   |
+Google WiFi Router
+   |
+   +--- Main Server
+   +---- Eventual second i3 pc
+   |
+   +--- Raspberry Pi 1
+   |
+   +--- Raspberry Pi 2
+   |
+   +--- Future Network Switch
+
+## Future Goals
+
+- [ ] Add managed network switch
+- [ ] Learn VLANs
+- [ ] Improve network organization
+- [ ] Experiment with separate homelab devices
+- [ ] Learn 2.5 Gb networking
