@@ -1,0 +1,29 @@
+# Homelab Goals
+
+## First/Basic Goals
+
+- [ ] Install Ubuntu Server on the i7
+- [ ] Learn basic Linux administration
+- [ ] Set up SSH
+- [ ] Set up Git
+- [ ] Set up Docker
+- [ ] Set up Pi-hole
+- [ ] Learn basic networking
+
+## Second-Term Goals
+
+- [ ] Add the second server
+- [ ] Build a Raspberry Pi cluster
+- [ ] Set up Plex
+- [ ] Set up network storage
+- [ ] Learn virtualization
+- [ ] Set up monitoring
+
+## Long-Term Goals
+
+- [ ] Build a more advanced network
+- [ ] Learn VLANs
+- [ ] Experiment with redundancy
+- [ ] Improve backups
+- [ ] Explore live TV
+- [ ] Document the entire homelab
