@@ -1,5 +1,5 @@
 # Homelab-Project-
-Documentation of my first ever homelab from 2026 and onwards 
+Documentation of my first ever homelab from September 2nd 2026 and onwards 
 
 Current hardware
 ## Raspberry Pi 3 (2015) x2 
