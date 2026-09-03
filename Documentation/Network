@@ -11,6 +11,11 @@
 ## Planned Network
 
 Internet
+Isp Modem
+   |
+Omada SG216E Network switch 
+   |
+Omada ER707 Router   
    |
 Google WiFi Router
    |
@@ -20,8 +25,7 @@ Google WiFi Router
    +--- Raspberry Pi 1
    |
    +--- Raspberry Pi 2
-   |
-   +--- Future Network Switch
+ 
 
 ## Future Goals
 
