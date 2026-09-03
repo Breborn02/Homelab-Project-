@@ -6,7 +6,7 @@ Current hardware
 Storage - none yet planning on buying a 32 gb sd card pack
 purpose - run pi hole as a cluster for redundancy
 
- ##Main tower HP Compaq
+ ## Main tower HP Compaq
 specs i7 3370 16gb of ram
 no storage yet planning on buying that soon
 purpose - this will be where i learn ubuntu i plan to do hosting using plex and eventually get live tv through my homelab but that will happen once i learn ubuntu
