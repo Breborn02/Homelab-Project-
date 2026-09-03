@@ -1,0 +1,29 @@
+# Homelab Hardware
+
+This page documents the hardware currently in my homelab and hardware I plan to add in the future.
+
+## Current Hardware
+
+### Raspberry Pi 3 ×2
+
+- Model: Raspberry Pi 3
+- Storage: None currently
+- Planned storage: 32 GB SD cards
+- Planned purpose: Pi-hole and eventually a cluster for redundancy
+
+### HP Compaq Elite 8300 Series
+
+- CPU: Intel Core i7-3770
+- RAM: 16 GB
+- Storage: None currently
+- Planned storage: SSD
+- Operating system: Ubuntu Server
+- Planned purpose: Main homelab server, learning Linux/Ubuntu, and eventually hosting Plex
+
+## Planned Hardware
+
+- [ ] 32 GB SD cards for Raspberry Pis
+- [ ] 128 gb SSD for main server (storage is too expensive currently)
+- [ ] Network switch
+- [ ] Router
+- [ ] Additional hardware as the homelab grows
